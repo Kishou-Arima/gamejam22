@@ -1,2 +1,2 @@
-# gamejam22
-For itch.io Game Jam 2022
+# Game Jam '22
+Game source codes for the  ```itch.io Game Jam 2022```
